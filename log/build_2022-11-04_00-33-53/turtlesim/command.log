@@ -1,0 +1,6 @@
+Invoking command in '/home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gt7219b/ros2_ws/src/brad_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/home/gt7219b/ros2_ws/src/brad_tutorials/install/turtlesim
+Invoked command in '/home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gt7219b/ros2_ws/src/brad_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/home/gt7219b/ros2_ws/src/brad_tutorials/install/turtlesim
+Invoking command in '/home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim -- -j4 -l4
+Invoked command in '/home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim -- -j4 -l4
+Invoking command in '/home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim
+Invoked command in '/home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gt7219b/ros2_ws/src/brad_tutorials/build/turtlesim
